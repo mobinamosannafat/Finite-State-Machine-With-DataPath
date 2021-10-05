@@ -1,0 +1,46 @@
+{C:/Users/Win10/Desktop/digi/Mini Project 1/adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Win10/Desktop/digi/Mini Project 1/adder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity adder
+-- Compiling architecture comp of adder
+
+} {} {}} {C:/Users/Win10/Desktop/digi/Mini Project 1/complement.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Win10/Desktop/digi/Mini Project 1/complement.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity complement
+-- Compiling architecture comp of complement
+
+} {} {}} {C:/Users/Win10/Desktop/digi/Mini Project 1/GCD.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Win10/Desktop/digi/Mini Project 1/GCD.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package pkgfile
+-- Compiling entity GCD
+-- Compiling architecture Moor of GCD
+
+} {} {}} {C:/Users/Win10/Desktop/digi/Mini Project 1/pkgFile.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Win10/Desktop/digi/Mini Project 1/pkgFile.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling package pkgfile
+-- Compiling package body pkgfile
+-- Loading package pkgfile
+
+} {} {}} {C:/Users/Win10/Desktop/digi/Mini Project 1/stateAssign.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Win10/Desktop/digi/Mini Project 1/stateAssign.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package pkgfile
+-- Compiling entity stateAssign
+-- Compiling architecture arch1 of stateAssign
+
+} {} {}}

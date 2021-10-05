@@ -1,0 +1,215 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+df:/modelsim/examples
+Eadder
+Z0 w1596786605
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Win10/Desktop/digi/Mini Project 1
+Z5 8C:/Users/Win10/Desktop/digi/Mini Project 1/adder.vhd
+Z6 FC:/Users/Win10/Desktop/digi/Mini Project 1/adder.vhd
+l0
+L5
+V:IFLeA^Cg^E=@oZk6eZaG0
+!s100 7eSbbF?JnJngZ>]k0>m012
+Z7 OP;C;10.4a;61
+32
+Z8 !s110 1596882594
+!i10b 1
+Z9 !s108 1596882594.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Win10/Desktop/digi/Mini Project 1/adder.vhd|
+Z11 !s107 C:/Users/Win10/Desktop/digi/Mini Project 1/adder.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Acomp
+R1
+R2
+R3
+DEx4 work 5 adder 0 22 :IFLeA^Cg^E=@oZk6eZaG0
+l15
+L11
+Vgb<2hF3PA9PE63dWmnzRE2
+!s100 LM^ae<H3anUm;Q5G>Bg0d1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecomplement
+Z14 w1596784132
+R1
+R2
+R3
+R4
+Z15 8C:/Users/Win10/Desktop/digi/Mini Project 1/complement.vhd
+Z16 FC:/Users/Win10/Desktop/digi/Mini Project 1/complement.vhd
+l0
+L5
+VIGSVjjK`KKnE8Ombeme2@1
+!s100 :XC=GPOSR_6SBSkUXBUa51
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Win10/Desktop/digi/Mini Project 1/complement.vhd|
+Z18 !s107 C:/Users/Win10/Desktop/digi/Mini Project 1/complement.vhd|
+!i113 1
+R12
+R13
+Acomp
+R1
+R2
+R3
+DEx4 work 10 complement 0 22 IGSVjjK`KKnE8Ombeme2@1
+l21
+L11
+V2S`k_lKMHZXDG;>R56jiA2
+!s100 8gQE8_XHGI9_QF;87Dg>T2
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Egcd
+Z19 w1596784952
+Z20 DPx4 work 7 pkgfile 0 22 6UjmZbEQf`7hiP?i`?C]h1
+R1
+R2
+R3
+R4
+Z21 8C:/Users/Win10/Desktop/digi/Mini Project 1/GCD.vhd
+Z22 FC:/Users/Win10/Desktop/digi/Mini Project 1/GCD.vhd
+l0
+L8
+V[gEfLc;8BCMzXT2^h4g5O0
+!s100 1CBSf74?6J_H8S;VbJf@<3
+R7
+32
+Z23 !s110 1596882628
+!i10b 1
+Z24 !s108 1596882627.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Win10/Desktop/digi/Mini Project 1/GCD.vhd|
+Z26 !s107 C:/Users/Win10/Desktop/digi/Mini Project 1/GCD.vhd|
+!i113 1
+R12
+R13
+Amoor
+R20
+R1
+R2
+R3
+DEx4 work 3 gcd 0 22 [gEfLc;8BCMzXT2^h4g5O0
+l62
+L17
+Vcd8mmIF=fYLn@NNaF33^C1
+!s100 gkX28An?l94kk]VnklRK?2
+R7
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R12
+R13
+Ppkgfile
+Z27 w1596784925
+R4
+Z28 8C:/Users/Win10/Desktop/digi/Mini Project 1/pkgFile.vhd
+Z29 FC:/Users/Win10/Desktop/digi/Mini Project 1/pkgFile.vhd
+l0
+L1
+V6UjmZbEQf`7hiP?i`?C]h1
+!s100 Kl2^A@XQ21VJR7VC1Gzac3
+R7
+32
+b1
+Z30 !s110 1596882595
+!i10b 1
+R9
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Win10/Desktop/digi/Mini Project 1/pkgFile.vhd|
+Z32 !s107 C:/Users/Win10/Desktop/digi/Mini Project 1/pkgFile.vhd|
+!i113 1
+R12
+R13
+Bbody
+R20
+l0
+L8
+VSCZ;Nn^NNe^^N]cG>Z5172
+!s100 AINFVz=3kS@eQ_?h^X65I0
+R7
+32
+R30
+!i10b 1
+R9
+R31
+R32
+!i113 1
+R12
+R13
+nbody
+Estateassign
+Z33 w1596784332
+R20
+R1
+R2
+R3
+R4
+Z34 8C:/Users/Win10/Desktop/digi/Mini Project 1/stateAssign.vhd
+Z35 FC:/Users/Win10/Desktop/digi/Mini Project 1/stateAssign.vhd
+l0
+L6
+Vf<Nfm2:XHzJ<8jW?17C?42
+!s100 9i_O>2jVKILkKOIeB9_Nk1
+R7
+32
+R30
+!i10b 1
+Z36 !s108 1596882595.000000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Win10/Desktop/digi/Mini Project 1/stateAssign.vhd|
+Z38 !s107 C:/Users/Win10/Desktop/digi/Mini Project 1/stateAssign.vhd|
+!i113 1
+R12
+R13
+Aarch1
+R20
+R1
+R2
+R3
+DEx4 work 11 stateassign 0 22 f<Nfm2:XHzJ<8jW?17C?42
+l14
+L12
+V?TW;9_[JS`gd16e9c@NIT1
+!s100 95DbETHTnaJ@9=NaTjZfS0
+R7
+32
+R30
+!i10b 1
+R36
+R37
+R38
+!i113 1
+R12
+R13
